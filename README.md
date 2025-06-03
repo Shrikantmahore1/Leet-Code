@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Binary Search
 |  |
 | ------- |
