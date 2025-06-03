@@ -1,22 +1,30 @@
-import java.util.HashSet;
-
 class Solution {
     public int[] fairCandySwap(int[] aliceSizes, int[] bobSizes) {
-        int sumA = 0, sumB = 0;
-        for (int a : aliceSizes) sumA += a;
-        for (int b : bobSizes) sumB += b;
-        
-        int delta = (sumA - sumB) / 2;
-        HashSet<Integer> setA = new HashSet<>();
-        for (int a : aliceSizes) setA.add(a);
-        
-        for (int b : bobSizes) {
-            int a = b + delta;
-            if (setA.contains(a)) {
-                return new int[] {a, b};
+        int aliceTotal = 0;
+        int bobTotal = 0;
+        // Calculating total candies of Alice and Bob
+        for(int candy : aliceSizes){
+            aliceTotal += candy;
+        }
+        for(int candy : bobSizes){
+            bobTotal += candy;
+        }
+
+        //Checking the candies of both side
+        int m = aliceSizes.length;
+        int n = bobSizes.length;
+
+        for(int i =0; i<m; i++){
+            for(int j = 0; j<n; j++){
+                int x = aliceSizes[i];// Candies that Alice will exchanges
+                int y = bobSizes[j];// Candies that Bob will exchange
+
+                if(aliceTotal -x + y == bobTotal - y+ x ){ 
+                    return new int[]{x, y};
+                }
             }
         }
-        
-        return new int[0]; 
+        return new int[]{};
+         
     }
 }
