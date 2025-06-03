@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0075-sort-colors) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Breadth-First Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0075-sort-colors) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## String
 |  |
 | ------- |
