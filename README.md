@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0965-unique-email-addresses) |
 | [1205-defanging-an-ip-address](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1619-path-crossing](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1619-path-crossing) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0965-unique-email-addresses) |
+| [1619-path-crossing](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Binary Search
 |  |
