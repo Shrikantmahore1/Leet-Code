@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
