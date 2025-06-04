@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0075-sort-colors) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -71,9 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0052-n-queens-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
