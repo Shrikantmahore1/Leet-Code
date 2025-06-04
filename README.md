@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
