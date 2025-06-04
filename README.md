@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0742-to-lower-case) |
 | [0857-positions-of-large-groups](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0857-positions-of-large-groups) |
 | [0965-unique-email-addresses](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0965-unique-email-addresses) |
+| [1205-defanging-an-ip-address](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Hash Table
 |  |
