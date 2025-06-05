@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0742-to-lower-case) |
 | [0857-positions-of-large-groups](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0857-positions-of-large-groups) |
 | [0965-unique-email-addresses](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0965-unique-email-addresses) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1205-defanging-an-ip-address) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1619-path-crossing](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1619-path-crossing) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
