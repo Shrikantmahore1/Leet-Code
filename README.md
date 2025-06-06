@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Database
 |  |
@@ -147,18 +148,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
