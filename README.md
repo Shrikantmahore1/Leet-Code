@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0075-sort-colors) |
 | [0216-combination-sum-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0216-combination-sum-iii) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0075-sort-colors) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
