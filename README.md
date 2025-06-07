@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
