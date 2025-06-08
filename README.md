@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1489-pizza-with-3n-slices](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1489-pizza-with-3n-slices) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Breadth-First Search
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1489-pizza-with-3n-slices](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1489-pizza-with-3n-slices) |
+| [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
 ## Matrix
 |  |
 | ------- |
@@ -233,4 +235,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
+## Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
+## Sliding Window
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
 <!---LeetCode Topics End-->
