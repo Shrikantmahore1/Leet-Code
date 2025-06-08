@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0075-sort-colors) |
 | [0216-combination-sum-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0216-combination-sum-iii) |
+| [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0965-unique-email-addresses) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
@@ -201,4 +204,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0386-lexicographical-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
