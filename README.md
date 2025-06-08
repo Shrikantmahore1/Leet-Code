@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Memoization
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0044-wildcard-matching) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
