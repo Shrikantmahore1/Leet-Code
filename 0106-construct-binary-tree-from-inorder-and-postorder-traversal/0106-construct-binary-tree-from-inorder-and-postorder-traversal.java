@@ -14,30 +14,31 @@
  * }
  */
 class Solution {
-    private Map<Integer, Integer> inorderIndexMap;
-    private int postIndex;
 
-    public TreeNode buildTree(int[] inorder, int[] postorder) {
-        inorderIndexMap = new HashMap<>();
-        postIndex = postorder.length - 1;
+    int pointer = 0;
 
-        for (int i = 0; i < inorder.length; i++)
-            inorderIndexMap.put(inorder[i], i);
+  public TreeNode buildTree(int[] inorder, int[] postorder) {
+    pointer = postorder.length - 1;
+    return build(postorder.length - 1, 0, inorder, postorder);
+  }
 
-        return helper(postorder, 0, inorder.length - 1);
+  private TreeNode build(int inorderStart, int inorderEnd, int[] inorder, int[] postorder) {
+    if (inorderStart < inorderEnd) {
+      return null;
     }
+    int topI = getTopI(postorder[pointer], inorder, inorderStart, inorderEnd);
+    TreeNode node = new TreeNode(postorder[pointer]);
+    pointer--;
+    node.right = build(inorderStart, topI + 1, inorder, postorder);
+    node.left = build(topI - 1, inorderEnd, inorder, postorder);
+    return node;
+  }
 
-    private TreeNode helper(int[] postorder, int inLeft, int inRight) {
-        if (inLeft > inRight) return null;
-
-        int rootVal = postorder[postIndex--];
-        TreeNode root = new TreeNode(rootVal);
-
-        int inIndex = inorderIndexMap.get(rootVal);
-
-        root.right = helper(postorder, inIndex + 1, inRight);
-        root.left = helper(postorder, inLeft, inIndex - 1);
-
-        return root;
+  public int getTopI(int val, int[] inorder, int start, int end) {
+    while (start > end && inorder[start] != val && inorder[end] != val) {
+      start--;
+      end++;
     }
+    return inorder[start] == val ? start : end;
+  }
 }
