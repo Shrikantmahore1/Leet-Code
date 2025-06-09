@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0075-sort-colors) |
 | [0216-combination-sum-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0216-combination-sum-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Backtracking
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0054-spiral-matrix) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
