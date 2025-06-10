@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1619-path-crossing) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrikantmahore1/Leet-Code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrikantmahore1/Leet-Code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Queue
 |  |
 | ------- |
