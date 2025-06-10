@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0131-palindrome-partitioning) |
