@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1489-pizza-with-3n-slices](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1489-pizza-with-3n-slices) |
@@ -279,18 +281,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
 ## Linked List
 |  |
