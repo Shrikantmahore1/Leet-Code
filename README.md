@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0198-house-robber) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
