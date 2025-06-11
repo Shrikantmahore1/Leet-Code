@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0517-super-washing-machines](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0517-super-washing-machines) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0517-super-washing-machines](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0517-super-washing-machines) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1489-pizza-with-3n-slices](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1489-pizza-with-3n-slices) |
