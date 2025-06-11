@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Breadth-First Search
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -272,10 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [1622-max-value-of-equation](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1622-max-value-of-equation) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
@@ -298,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
