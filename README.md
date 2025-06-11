@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
@@ -260,10 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Line Sweep
 |  |
 | ------- |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting
 |  |
@@ -317,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
