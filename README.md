@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0517-super-washing-machines](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0517-super-washing-machines) |
+| [0587-erect-the-fence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0587-erect-the-fence) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0587-erect-the-fence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0587-erect-the-fence) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3201-distribute-candies-among-children-ii) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
