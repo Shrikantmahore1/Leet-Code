@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3201-distribute-candies-among-children-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0965-unique-email-addresses) |
@@ -327,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Design
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
