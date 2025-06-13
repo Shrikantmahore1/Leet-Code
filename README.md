@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0386-lexicographical-numbers](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
