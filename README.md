@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0054-spiral-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0064-minimum-path-sum) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0216-combination-sum-iii) |
