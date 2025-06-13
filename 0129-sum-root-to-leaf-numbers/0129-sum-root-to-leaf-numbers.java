@@ -13,38 +13,26 @@
  *     }
  * }
  */
-// Definition for a binary tree node.
-/*class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode() {}
-    TreeNode(int x) { val = x; }
-    TreeNode(int x, TreeNode left, TreeNode right) {
-        this.val = x;
-        this.left = left;
-        this.right = right;
-    }
-}
- */
 class Solution {
-    public void getresult(TreeNode root, int[] result, int tempresult) {
-        if (root == null) {
-            return;
+    private static void dfs (TreeNode node, String s, ArrayList paths) {
+        if (node.left == null && node.right == null) {
+            paths.add(s + Integer.toString(node.val));
         }
-        tempresult = tempresult * 10 + root.val;
-        if (root.left == null && root.right == null) {
-            result[0] += tempresult;
-            return;
+        if (node.left != null) {
+            dfs(node.left, s + Integer.toString(node.val), paths);
         }
-        getresult(root.left, result, tempresult);
-        getresult(root.right, result, tempresult);
+        if (node.right != null) {
+            dfs(node.right, s + Integer.toString(node.val), paths);
+        }
     }
-
     public int sumNumbers(TreeNode root) {
-        int[] result = new int[1];
-        int tempresult = 0;
-        getresult(root, result, tempresult);
-        return result[0];
+        ArrayList<String> paths = new ArrayList<>();
+        dfs(root, "", paths);
+
+        int sum = 0;
+        for (String path : paths) {
+            sum += Integer.parseInt(path);
+        }
+        return sum;
     }
 }
