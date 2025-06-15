@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0732-my-calendar-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0732-my-calendar-iii) |
 | [0924-fair-candy-swap](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0732-my-calendar-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0732-my-calendar-iii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0732-my-calendar-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0732-my-calendar-iii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Counting
 |  |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0732-my-calendar-iii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Merge Sort
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0732-my-calendar-iii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0732-my-calendar-iii) |
 ## Randomized
 |  |
 | ------- |
