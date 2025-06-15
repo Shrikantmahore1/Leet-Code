@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0587-erect-the-fence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0587-erect-the-fence) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3201-distribute-candies-among-children-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0621-task-scheduler) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1489-pizza-with-3n-slices](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1489-pizza-with-3n-slices) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrikantmahore1/Leet-Code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Tree
 |  |
