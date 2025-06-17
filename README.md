@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0399-evaluate-division](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0399-evaluate-division) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0517-super-washing-machines](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0517-super-washing-machines) |
 | [0587-erect-the-fence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0587-erect-the-fence) |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0399-evaluate-division) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0399-evaluate-division) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Math
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0131-palindrome-partitioning) |
+| [0399-evaluate-division](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0742-to-lower-case) |
 | [0857-positions-of-large-groups](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0857-positions-of-large-groups) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0399-evaluate-division) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0386-lexicographical-numbers](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0399-evaluate-division) |
 | [1285-balance-a-binary-search-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Memoization
@@ -381,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
