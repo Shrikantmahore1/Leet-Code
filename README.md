@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Breadth-First Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## String
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrikantmahore1/Leet-Code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shrikantmahore1/Leet-Code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Tree
 |  |
 | ------- |
