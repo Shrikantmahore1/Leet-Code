@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shrikantmahore1/Leet-Code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Shrikantmahore1/Leet-Code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Combinatorics
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-pizza-with-3n-slices](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1489-pizza-with-3n-slices) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Shrikantmahore1/Leet-Code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shrikantmahore1/Leet-Code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Tree
 |  |
 | ------- |
