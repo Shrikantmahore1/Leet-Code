@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0182-duplicate-emails) |
+| [0577-employee-bonus](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/Shrikantmahore1/Leet-Code/tree/master/0585-investments-in-2016) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1523-capital-gainloss](https://github.com/Shrikantmahore1/Leet-Code/tree/master/1523-capital-gainloss) |
